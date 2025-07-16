@@ -1,0 +1,13 @@
+{
+  "add_expense": "Agregar Gasto",
+  "description": "Descripción",
+  "amount": "Monto",
+  "category": "Categoría",
+  "date": "Fecha",
+  "vat_type": "Tipo de IVA",
+  "business_expense": "Gasto de Negocio",
+  "submit": "Guardar",
+  "expenses_list": "Lista de Gastos",
+  "download_pdf": "Descargar Reporte en PDF",
+  "language_select": "Selecciona el Idioma"
+}

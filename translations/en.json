@@ -1,0 +1,13 @@
+{
+  "add_expense": "Add Expense",
+  "description": "Description",
+  "amount": "Amount",
+  "category": "Category",
+  "date": "Date",
+  "vat_type": "VAT Type",
+  "business_expense": "Business Expense",
+  "submit": "Submit",
+  "expenses_list": "Expenses List",
+  "download_pdf": "Download PDF Report",
+  "language_select": "Select Language"
+}
